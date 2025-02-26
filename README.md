@@ -1,3 +1,5 @@
+![Alt text](V1.png)
+
 # **WPF MVVM Dashboard UI with Advanced Search Filter**
 
 Welcome to the **WPF-MVVM-Dashboard-UI** repository! 🚀 This project is a **modern, intuitive, and fully responsive dashboard UI**, built using **WPF (Windows Presentation Foundation)** with the **MVVM (Model-View-ViewModel) pattern**. It includes an advanced **text search filter** for seamless data navigation and user experience.
@@ -46,7 +48,7 @@ cd Win-WPF-Dashboard-UI
 
 ## **📷 Screenshots**  
 
-_Add screenshots of the dashboard here_
+![Alt text](V2.png)
 
 ---
 
